@@ -2,7 +2,7 @@
 🚀 Aerospace engineer turned software developer with a passion for building efficient and scalable systems. 
 
 ## 🛠️ Projects
-Here are some of my notable projects:
+Here are some of my projects:
 - **[home-media-server](https://github.com/danozka/home-media-server)**  
   A comprehensive Docker Compose setup for a self-hosted media server. Automates downloading, organization, and 
 streaming for a seamless media experience.
@@ -20,4 +20,4 @@ tools to expand my skill set and stay adaptable in the ever-evolving tech landsc
 ## 🌐 Let's connect
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
-Reach my on [@danozka_](https://x.com/danozka_)
+Reach me on [@danozka_](https://x.com/danozka_)
