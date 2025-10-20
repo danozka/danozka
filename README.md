@@ -12,6 +12,9 @@ headers on the fly.
 - **[xml-factory](https://github.com/danozka/xml-factory)**  
   A tool to effortlessly generate valid XML from XSD schemas. Eliminates manual edits, prevents errors, and speeds up 
 test data preparation.
+- **[rl-trading-bot](https://github.com/danozka/rl-trading-bot)**
+  A production-grade, PPO-powered trading bot that learns multi-timeframe market patterns from real candlestick data
+  and makes disciplined, data-driven trade decisions end-to-end.
 
 ## 🌱 Learning and growth
 While Python is my go-to language, I constantly challenge myself to learn and adopt new frameworks, languages, and 
