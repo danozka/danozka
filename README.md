@@ -23,4 +23,4 @@ tools to expand my skill set and stay adaptable in the ever-evolving tech landsc
 ## 🌐 Let's connect
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
-Reach me on [@danozka_](https://x.com/danozka_)
+Reach me on [@daninozka](https://x.com/daninozka) 
